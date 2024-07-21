@@ -867,12 +867,12 @@ body.dark-theme .footer__logo span {
   }
  
 body.dark-theme .toggle-btn {
-    background: url("moon.png") center/cover no-repeat;
+    background: url("/images/moon.png") center/cover no-repeat;
   }
   
  
   body:not(.dark-theme) .toggle-btn {
-    background: url("sunlight.png") center/cover no-repeat;
+    background: url("/images/sunlight.png") center/cover no-repeat;
   }
   
 .swiper-pagination-bullet-active {
