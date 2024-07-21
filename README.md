@@ -31,5 +31,7 @@ The Landing Page is a stylish and functional web page designed to offer a sleek 
 ![image](https://github.com/user-attachments/assets/26726e82-89a8-48d0-afca-21e385251563)
 ![image](https://github.com/user-attachments/assets/69e1b686-368b-461c-abdd-5fdd0fb28579)
 
+## Summary
 
+The Landing Page delivers a modern and adaptable web experience, allowing users to effortlessly switch between light and dark modes. Its use of HTML, CSS, and JavaScript ensures a responsive and visually appealing interface.
 
